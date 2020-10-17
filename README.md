@@ -1,6 +1,9 @@
+# A Life of Data Science
+### Making Data Science uncool again
+
 ![Build Status](https://gitlab.com/pages/gatsby/badges/master/build.svg)
 
----
+--- 
 
 Example [Gatsby] website using GitLab Pages.
 
